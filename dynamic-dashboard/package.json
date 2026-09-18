@@ -1,0 +1,6 @@
+{
+  "name": "hithink-live-dashboard",
+  "private": true,
+  "type": "module",
+  "dependencies": { "echarts": "^6.0.0" }
+}
